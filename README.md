@@ -1,3 +1,3 @@
 # hello-world
 a trail one
-i am greate
+i am great
